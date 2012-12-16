@@ -1,11 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 34
-/!svn/ver/677680/appidscwscq3d89/1
+/!svn/ver/679957/appidscwscq3d89/1
 END
 app.conf
 K 25
 svn:wc:ra_dav:version-url
 V 43
 /!svn/ver/677666/appidscwscq3d89/1/app.conf
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/679957/appidscwscq3d89/1/index.html
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/678206/appidscwscq3d89/1/favicon.ico
 END
